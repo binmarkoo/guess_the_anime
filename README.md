@@ -1,18 +1,71 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🎌 Guess the Anime 🎌
 
-Currently, two official plugins are available:
+### *Wordle, aber für Weebs* 🕵️‍♂️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-⚡-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Made with love](https://img.shields.io/badge/made%20with-❤️%20%26%20☕-ff69b4?style=for-the-badge)
 
-## React Compiler
+*Errate das versteckte Anime. Eine Kategorie nach der anderen. Kein Entkommen.* 🔒
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+</div>
 
-Note: This will impact Vite dev & build performances.
+---
 
-## Expanding the ESLint configuration
+## 🎮 Worum geht's?
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Du tippst einen Anime-Titel ein — das Spiel vergleicht ihn mit dem geheimen Ziel-Anime und verrät dir Stück für Stück, was passt und was nicht: Studio, Genre, Erscheinungsjahr und mehr. 🟩🟨🟥
+
+Immer näher ran, bis du den richtigen erwischst. Simpel im Konzept, gemein im Detail. 😈
+
+## ✨ Features
+
+- 🎯 **Kategorie-Feedback** — jeder Guess zeigt dir Treffer, Teiltreffer und Nieten
+- 🟩 **Visuelles Grid** — grün, gelb, rot, du kennst das Spiel
+- 🔤 **Autocomplete** — kein nerviges Titel-Raten beim Tippen
+- 🏆 **Win Screen** mit Stats zum Angeben
+- 📱 **Responsive** — läuft auf Handy und Desktop
+
+## 🛠️ Tech Stack
+
+| Was | Womit |
+|-----|-------|
+| 💛 UI | React 19 |
+| ⚡ Build | Vite |
+| 🧹 Linting | ESLint |
+| 📦 Daten | externer Fetch-Layer |
+
+## 🚀 Los geht's
+
+```bash
+# 1️⃣ Schnapp dir den Code
+git clone https://github.com/binmarkoo/guess_the_anime.git
+cd guess_the_anime
+
+# 2️⃣ Dependencies rein
+npm install
+
+# 3️⃣ Und ab dafür 🏃‍♂️
+npm run dev
+```
+
+➡️ Öffnet sich auf `http://localhost:5173`
+
+**Production Build gefällig?** 📦
+```bash
+npm run build
+npm run preview
+```
+
+## 🗂️ Projektstruktur
+
+```
+src/
+├── 🎮 components/game/    # Grid, Rows, Input, Win-Screen
+├── 🎨 components/layout/  # Header, Tabs
+├── 🧩 components/ui/      # Button, Spinner
+├── 📚 data/               # Anime-Daten & Fetch
+├── ⚙️ game/               # Vergleichslogik, Kategorien, Stats
+└── 🪝 hooks/              # Custom Hooks

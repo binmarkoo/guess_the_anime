@@ -1,0 +1,5297 @@
+[
+  {
+    "id": 52991,
+    "title": "Frieren: Beyond Journey's End",
+    "image": "https://cdn.myanimelist.net/images/anime/1015/138006l.jpg",
+    "score": 9.26,
+    "year": 2023,
+    "episodes": 28,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 1
+  },
+  {
+    "id": 5114,
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "image": "https://cdn.myanimelist.net/images/anime/1208/94745l.jpg",
+    "score": 9.11,
+    "year": 2009,
+    "episodes": 64,
+    "source": "Manga",
+    "studio": "Bones",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 3
+  },
+  {
+    "id": 61469,
+    "title": "Steel Ball Run: JoJo's Bizarre Adventure",
+    "image": "https://cdn.myanimelist.net/images/anime/1448/154111l.jpg",
+    "score": 9.1,
+    "year": null,
+    "episodes": null,
+    "source": "Manga",
+    "studio": "David Production",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Supernatural"
+    ],
+    "type": "ONA",
+    "status": "Currently Airing",
+    "season": "Unknown",
+    "rank": 4
+  },
+  {
+    "id": 9253,
+    "title": "Steins;Gate",
+    "image": "https://cdn.myanimelist.net/images/anime/1935/127974l.jpg",
+    "score": 9.07,
+    "year": 2011,
+    "episodes": 24,
+    "source": "Visual novel",
+    "studio": "White Fox",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 5
+  },
+  {
+    "id": 57555,
+    "title": "Chainsaw Man – The Movie: Reze Arc",
+    "image": "https://cdn.myanimelist.net/images/anime/1763/150638l.jpg",
+    "score": 9.06,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "MAPPA",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 6
+  },
+  {
+    "id": 39486,
+    "title": "Gintama: The Very Final",
+    "image": "https://cdn.myanimelist.net/images/anime/1245/116760l.jpg",
+    "score": 9.05,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Bandai Namco Pictures",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 7
+  },
+  {
+    "id": 11061,
+    "title": "Hunter x Hunter",
+    "image": "https://cdn.myanimelist.net/images/anime/1337/99013l.jpg",
+    "score": 9.03,
+    "year": 2011,
+    "episodes": 148,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 11
+  },
+  {
+    "id": 15417,
+    "title": "Gintama: Enchousen",
+    "image": "https://cdn.myanimelist.net/images/anime/1452/123686l.jpg",
+    "score": 9.02,
+    "year": 2012,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Sunrise",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 14
+  },
+  {
+    "id": 820,
+    "title": "Legend of the Galactic Heroes",
+    "image": "https://cdn.myanimelist.net/images/anime/1976/142016l.jpg",
+    "score": 9.02,
+    "year": null,
+    "episodes": 110,
+    "source": "Novel",
+    "studio": "K-Factory",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 12
+  },
+  {
+    "id": 60022,
+    "title": "One Piece Fan Letter",
+    "image": "https://cdn.myanimelist.net/images/anime/1455/146229l.jpg",
+    "score": 9.01,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "Toei Animation",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "TV Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 15
+  },
+  {
+    "id": 34096,
+    "title": "Gintama Season 5",
+    "image": "https://cdn.myanimelist.net/images/anime/3/83528l.jpg",
+    "score": 8.98,
+    "year": 2017,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Bandai Namco Pictures",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 17
+  },
+  {
+    "id": 41467,
+    "title": "Bleach: Thousand-Year Blood War",
+    "image": "https://cdn.myanimelist.net/images/anime/1908/135431l.jpg",
+    "score": 8.98,
+    "year": 2022,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Studio Pierrot",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 16
+  },
+  {
+    "id": 43608,
+    "title": "Kaguya-sama: Love is War -Ultra Romantic-",
+    "image": "https://cdn.myanimelist.net/images/anime/1160/122627l.jpg",
+    "score": 8.95,
+    "year": 2022,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 18
+  },
+  {
+    "id": 4181,
+    "title": "Clannad: After Story",
+    "image": "https://cdn.myanimelist.net/images/anime/1299/110774l.jpg",
+    "score": 8.93,
+    "year": 2008,
+    "episodes": 24,
+    "source": "Visual novel",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 19
+  },
+  {
+    "id": 918,
+    "title": "Gintama",
+    "image": "https://cdn.myanimelist.net/images/anime/10/73274l.jpg",
+    "score": 8.93,
+    "year": 2006,
+    "episodes": 201,
+    "source": "Manga",
+    "studio": "Sunrise",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 21
+  },
+  {
+    "id": 28851,
+    "title": "A Silent Voice",
+    "image": "https://cdn.myanimelist.net/images/anime/1122/96435l.jpg",
+    "score": 8.93,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 22
+  },
+  {
+    "id": 2904,
+    "title": "Code Geass: Lelouch of the Rebellion R2",
+    "image": "https://cdn.myanimelist.net/images/anime/1088/135089l.jpg",
+    "score": 8.92,
+    "year": 2008,
+    "episodes": 25,
+    "source": "Original",
+    "studio": "Sunrise",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 23
+  },
+  {
+    "id": 15335,
+    "title": "Gintama: The Movie: The Final Chapter: Be Forever Yorozuya",
+    "image": "https://cdn.myanimelist.net/images/anime/10/51723l.jpg",
+    "score": 8.89,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Sunrise",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 26
+  },
+  {
+    "id": 19,
+    "title": "Monster",
+    "image": "https://cdn.myanimelist.net/images/anime/10/18793l.jpg",
+    "score": 8.89,
+    "year": 2004,
+    "episodes": 74,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 27
+  },
+  {
+    "id": 37491,
+    "title": "Gintama. Silver Soul Arc - Second Half War",
+    "image": "https://cdn.myanimelist.net/images/anime/1776/96566l.jpg",
+    "score": 8.88,
+    "year": 2018,
+    "episodes": 14,
+    "source": "Manga",
+    "studio": "Bandai Namco Pictures",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 28
+  },
+  {
+    "id": 35247,
+    "title": "Owarimonogatari Second Season",
+    "image": "https://cdn.myanimelist.net/images/anime/6/87322l.jpg",
+    "score": 8.86,
+    "year": null,
+    "episodes": 7,
+    "source": "Light novel",
+    "studio": "Shaft",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "type": "TV Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 29
+  },
+  {
+    "id": 54492,
+    "title": "The Apothecary Diaries",
+    "image": "https://cdn.myanimelist.net/images/anime/1708/138033l.jpg",
+    "score": 8.85,
+    "year": 2023,
+    "episodes": 24,
+    "source": "Light novel",
+    "studio": "OLM",
+    "genres": [
+      "Drama",
+      "Mystery"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 33
+  },
+  {
+    "id": 59571,
+    "title": "Attack on Titan: The Last Attack",
+    "image": "https://cdn.myanimelist.net/images/anime/1379/145452l.jpg",
+    "score": 8.83,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "MAPPA",
+    "genres": [
+      "Action",
+      "Drama",
+      "Suspense"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 34
+  },
+  {
+    "id": 37987,
+    "title": "Violet Evergarden: The Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1825/110716l.jpg",
+    "score": 8.83,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 36
+  },
+  {
+    "id": 32281,
+    "title": "Your Name.",
+    "image": "https://cdn.myanimelist.net/images/anime/5/87048l.jpg",
+    "score": 8.82,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "CoMix Wave Films",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 37
+  },
+  {
+    "id": 2921,
+    "title": "Tomorrow's Joe 2",
+    "image": "https://cdn.myanimelist.net/images/anime/3/45028l.jpg",
+    "score": 8.81,
+    "year": 1980,
+    "episodes": 47,
+    "source": "Manga",
+    "studio": "Tokyo Movie Shinsha",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 38
+  },
+  {
+    "id": 36838,
+    "title": "Gintama. Silver Soul Arc",
+    "image": "https://cdn.myanimelist.net/images/anime/12/89603l.jpg",
+    "score": 8.81,
+    "year": 2018,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Bandai Namco Pictures",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 39
+  },
+  {
+    "id": 37521,
+    "title": "Vinland Saga",
+    "image": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg",
+    "score": 8.78,
+    "year": 2019,
+    "episodes": 24,
+    "source": "Manga",
+    "studio": "Wit Studio",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 44
+  },
+  {
+    "id": 263,
+    "title": "Fighting Spirit",
+    "image": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg",
+    "score": 8.78,
+    "year": 2000,
+    "episodes": 75,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 41
+  },
+  {
+    "id": 199,
+    "title": "Spirited Away",
+    "image": "https://cdn.myanimelist.net/images/anime/6/79597l.jpg",
+    "score": 8.77,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Studio Ghibli",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Fantasy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 46
+  },
+  {
+    "id": 17074,
+    "title": "Monogatari Series: Second Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1807/121534l.jpg",
+    "score": 8.76,
+    "year": 2013,
+    "episodes": 26,
+    "source": "Light novel",
+    "studio": "Shaft",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 48
+  },
+  {
+    "id": 60489,
+    "title": "Takopi's Original Sin",
+    "image": "https://cdn.myanimelist.net/images/anime/1182/149879l.jpg",
+    "score": 8.75,
+    "year": null,
+    "episodes": 6,
+    "source": "Manga",
+    "studio": "Enishiya",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 50
+  },
+  {
+    "id": 1,
+    "title": "Cowboy Bebop",
+    "image": "https://cdn.myanimelist.net/images/anime/4/19644l.jpg",
+    "score": 8.75,
+    "year": 1998,
+    "episodes": 26,
+    "source": "Original",
+    "studio": "Sunrise",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 49
+  },
+  {
+    "id": 62276,
+    "title": "Lord of Mysteries Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/1211/157100l.jpg",
+    "score": 8.74,
+    "year": null,
+    "episodes": 3,
+    "source": "Web novel",
+    "studio": "B.CMAY PICTURES",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mystery",
+      "Suspense"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 51
+  },
+  {
+    "id": 58788,
+    "title": "Journal with Witch",
+    "image": "https://cdn.myanimelist.net/images/anime/1791/154233l.jpg",
+    "score": 8.73,
+    "year": 2026,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Shuka",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 55
+  },
+  {
+    "id": 39894,
+    "title": "Sound! Euphonium 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1216/142086l.jpg",
+    "score": 8.73,
+    "year": 2024,
+    "episodes": 13,
+    "source": "Novel",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 54
+  },
+  {
+    "id": 47917,
+    "title": "Bocchi the Rock!",
+    "image": "https://cdn.myanimelist.net/images/anime/1448/127956l.jpg",
+    "score": 8.73,
+    "year": 2022,
+    "episodes": 12,
+    "source": "4-koma manga",
+    "studio": "CloverWorks",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 53
+  },
+  {
+    "id": 21,
+    "title": "One Piece",
+    "image": "https://cdn.myanimelist.net/images/anime/1244/138851l.jpg",
+    "score": 8.73,
+    "year": 1999,
+    "episodes": null,
+    "source": "Manga",
+    "studio": "Toei Animation",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Currently Airing",
+    "season": "fall",
+    "rank": 57
+  },
+  {
+    "id": 53223,
+    "title": "Kingdom Season 5",
+    "image": "https://cdn.myanimelist.net/images/anime/1050/139641l.jpg",
+    "score": 8.72,
+    "year": 2024,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Studio Pierrot",
+    "genres": [
+      "Action"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 59
+  },
+  {
+    "id": 52215,
+    "title": "Orb: On the Movements of the Earth",
+    "image": "https://cdn.myanimelist.net/images/anime/1749/145922l.jpg",
+    "score": 8.72,
+    "year": 2024,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 58
+  },
+  {
+    "id": 55016,
+    "title": "Idol",
+    "image": "https://cdn.myanimelist.net/images/anime/1921/135489l.jpg",
+    "score": 8.71,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Doga Kobo",
+    "genres": [],
+    "type": "Music",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": null
+  },
+  {
+    "id": 52198,
+    "title": "Kaguya-sama: Love is War -The First Kiss That Never Ends-",
+    "image": "https://cdn.myanimelist.net/images/anime/1670/130060l.jpg",
+    "score": 8.71,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 64
+  },
+  {
+    "id": 1575,
+    "title": "Code Geass: Lelouch of the Rebellion",
+    "image": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
+    "score": 8.71,
+    "year": 2006,
+    "episodes": 25,
+    "source": "Original",
+    "studio": "Sunrise",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 63
+  },
+  {
+    "id": 53998,
+    "title": "Bleach: Thousand-Year Blood War - The Separation",
+    "image": "https://cdn.myanimelist.net/images/anime/1164/138058l.jpg",
+    "score": 8.7,
+    "year": 2023,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Studio Pierrot",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 65
+  },
+  {
+    "id": 33095,
+    "title": "Descending Stories: Showa Genroku Rakugo Shinju",
+    "image": "https://cdn.myanimelist.net/images/anime/1493/124765l.jpg",
+    "score": 8.7,
+    "year": 2017,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Studio Deen",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 68
+  },
+  {
+    "id": 45649,
+    "title": "The First Slam Dunk",
+    "image": "https://cdn.myanimelist.net/images/anime/1745/129284l.jpg",
+    "score": 8.7,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Toei Animation",
+    "genres": [
+      "Award Winning",
+      "Sports"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 69
+  },
+  {
+    "id": 44074,
+    "title": "Link Click",
+    "image": "https://cdn.myanimelist.net/images/anime/1135/114867l.jpg",
+    "score": 8.7,
+    "year": null,
+    "episodes": 11,
+    "source": "Original",
+    "studio": "LAN Studio",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Suspense"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 67
+  },
+  {
+    "id": 21939,
+    "title": "Mushi-shi: Next Passage Part 1",
+    "image": "https://cdn.myanimelist.net/images/anime/13/58533l.jpg",
+    "score": 8.69,
+    "year": 2014,
+    "episodes": 10,
+    "source": "Manga",
+    "studio": "Artland",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 71
+  },
+  {
+    "id": 33352,
+    "title": "Violet Evergarden",
+    "image": "https://cdn.myanimelist.net/images/anime/1795/95088l.jpg",
+    "score": 8.69,
+    "year": 2018,
+    "episodes": 13,
+    "source": "Light novel",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 73
+  },
+  {
+    "id": 44,
+    "title": "Samurai X: Trust and Betrayal",
+    "image": "https://cdn.myanimelist.net/images/anime/1656/137618l.jpg",
+    "score": 8.69,
+    "year": null,
+    "episodes": 4,
+    "source": "Manga",
+    "studio": "Studio Deen",
+    "genres": [
+      "Action",
+      "Drama",
+      "Romance"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 72
+  },
+  {
+    "id": 47778,
+    "title": "Demon Slayer: Kimetsu no Yaiba Entertainment District Arc",
+    "image": "https://cdn.myanimelist.net/images/anime/1908/120036l.jpg",
+    "score": 8.69,
+    "year": 2022,
+    "episodes": 11,
+    "source": "Manga",
+    "studio": "ufotable",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 70
+  },
+  {
+    "id": 56784,
+    "title": "Bleach: Thousand-Year Blood War - The Conflict",
+    "image": "https://cdn.myanimelist.net/images/anime/1595/144074l.jpg",
+    "score": 8.68,
+    "year": 2024,
+    "episodes": 14,
+    "source": "Manga",
+    "studio": "Pierrot Films",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 75
+  },
+  {
+    "id": 245,
+    "title": "Great Teacher Onizuka",
+    "image": "https://cdn.myanimelist.net/images/anime/13/11460l.jpg",
+    "score": 8.68,
+    "year": 1999,
+    "episodes": 43,
+    "source": "Manga",
+    "studio": "Studio Pierrot",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 77
+  },
+  {
+    "id": 61517,
+    "title": "Kingdom Season 6",
+    "image": "https://cdn.myanimelist.net/images/anime/1282/151476l.jpg",
+    "score": 8.67,
+    "year": 2025,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Studio Pierrot",
+    "genres": [
+      "Action"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 80
+  },
+  {
+    "id": 53447,
+    "title": "To Be Hero X",
+    "image": "https://cdn.myanimelist.net/images/anime/1492/150628l.jpg",
+    "score": 8.67,
+    "year": null,
+    "episodes": 24,
+    "source": "Original",
+    "studio": "Pb Animation",
+    "genres": [
+      "Action"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 82
+  },
+  {
+    "id": 5258,
+    "title": "Fighting Spirit: New Challenger",
+    "image": "https://cdn.myanimelist.net/images/anime/8/56617l.jpg",
+    "score": 8.67,
+    "year": 2009,
+    "episodes": 26,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 78
+  },
+  {
+    "id": 431,
+    "title": "Howl's Moving Castle",
+    "image": "https://cdn.myanimelist.net/images/anime/1470/138723l.jpg",
+    "score": 8.67,
+    "year": null,
+    "episodes": 1,
+    "source": "Novel",
+    "studio": "Studio Ghibli",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 79
+  },
+  {
+    "id": 164,
+    "title": "Princess Mononoke",
+    "image": "https://cdn.myanimelist.net/images/anime/1355/147277l.jpg",
+    "score": 8.67,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Studio Ghibli",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Award Winning",
+      "Fantasy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 81
+  },
+  {
+    "id": 61952,
+    "title": "The Legend of Hei 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1288/151853l.jpg",
+    "score": 8.66,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "HMCH",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 85
+  },
+  {
+    "id": 59192,
+    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Infinity Castle - Part 1: Akaza Returns",
+    "image": "https://cdn.myanimelist.net/images/anime/1681/148216l.jpg",
+    "score": 8.66,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "ufotable",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 84
+  },
+  {
+    "id": 457,
+    "title": "Mushi-Shi",
+    "image": "https://cdn.myanimelist.net/images/anime/2/73862l.jpg",
+    "score": 8.65,
+    "year": 2005,
+    "episodes": 26,
+    "source": "Manga",
+    "studio": "Artland",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 87
+  },
+  {
+    "id": 40434,
+    "title": "The Master of Diabolism 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1634/116782l.jpg",
+    "score": 8.65,
+    "year": null,
+    "episodes": 12,
+    "source": "Web novel",
+    "studio": "B.CMAY PICTURES",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 86
+  },
+  {
+    "id": 57864,
+    "title": "Monogatari Series: Off & Monster Season",
+    "image": "https://cdn.myanimelist.net/images/anime/1142/146776l.jpg",
+    "score": 8.64,
+    "year": null,
+    "episodes": 14,
+    "source": "Light novel",
+    "studio": "Shaft",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 89
+  },
+  {
+    "id": 57647,
+    "title": "Umamusume: Pretty Derby - Beginning of a New Era",
+    "image": "https://cdn.myanimelist.net/images/anime/1427/142210l.jpg",
+    "score": 8.64,
+    "year": null,
+    "episodes": 1,
+    "source": "Game",
+    "studio": "CygamesPictures",
+    "genres": [
+      "Sports"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 93
+  },
+  {
+    "id": 2001,
+    "title": "Gurren Lagann",
+    "image": "https://cdn.myanimelist.net/images/anime/4/5123l.jpg",
+    "score": 8.64,
+    "year": 2007,
+    "episodes": 27,
+    "source": "Original",
+    "studio": "Gainax",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 91
+  },
+  {
+    "id": 23273,
+    "title": "Your Lie in April",
+    "image": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
+    "score": 8.64,
+    "year": 2014,
+    "episodes": 22,
+    "source": "Manga",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 90
+  },
+  {
+    "id": 22135,
+    "title": "Ping Pong the Animation",
+    "image": "https://cdn.myanimelist.net/images/anime/1586/146565l.jpg",
+    "score": 8.63,
+    "year": 2014,
+    "episodes": 11,
+    "source": "Manga",
+    "studio": "Tatsunoko Production",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 97
+  },
+  {
+    "id": 46102,
+    "title": "Odd Taxi",
+    "image": "https://cdn.myanimelist.net/images/anime/1981/113348l.jpg",
+    "score": 8.63,
+    "year": 2021,
+    "episodes": 13,
+    "source": "Original",
+    "studio": "OLM",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Mystery",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 96
+  },
+  {
+    "id": 52742,
+    "title": "Haikyu!! Movie: The Dumpster Battle",
+    "image": "https://cdn.myanimelist.net/images/anime/1665/140360l.jpg",
+    "score": 8.62,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Sports"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 100
+  },
+  {
+    "id": 34599,
+    "title": "Made in Abyss",
+    "image": "https://cdn.myanimelist.net/images/anime/6/86733l.jpg",
+    "score": 8.62,
+    "year": 2017,
+    "episodes": 13,
+    "source": "Web manga",
+    "studio": "Kinema Citrus",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 101
+  },
+  {
+    "id": 42310,
+    "title": "Cyberpunk: Edgerunners",
+    "image": "https://cdn.myanimelist.net/images/anime/1818/126435l.jpg",
+    "score": 8.62,
+    "year": null,
+    "episodes": 10,
+    "source": "Game",
+    "studio": "Trigger",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 98
+  },
+  {
+    "id": 1535,
+    "title": "Death Note",
+    "image": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
+    "score": 8.62,
+    "year": 2006,
+    "episodes": 37,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Supernatural",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 99
+  },
+  {
+    "id": 58125,
+    "title": "Look Back",
+    "image": "https://cdn.myanimelist.net/images/anime/1716/142633l.jpg",
+    "score": 8.61,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Studio DURIAN",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 109
+  },
+  {
+    "id": 57658,
+    "title": "Jujutsu Kaisen: The Culling Game Part 1",
+    "image": "https://cdn.myanimelist.net/images/anime/1659/154920l.jpg",
+    "score": 8.61,
+    "year": 2026,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "MAPPA",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 106
+  },
+  {
+    "id": 49818,
+    "title": "Lord of Mysteries",
+    "image": "https://cdn.myanimelist.net/images/anime/1952/149229l.jpg",
+    "score": 8.61,
+    "year": null,
+    "episodes": 13,
+    "source": "Web novel",
+    "studio": "B.CMAY PICTURES",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Mystery",
+      "Suspense"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 103
+  },
+  {
+    "id": 34591,
+    "title": "Natsume's Book of Friends Season 6",
+    "image": "https://cdn.myanimelist.net/images/anime/6/84416l.jpg",
+    "score": 8.61,
+    "year": 2017,
+    "episodes": 11,
+    "source": "Manga",
+    "studio": "Shuka",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 110
+  },
+  {
+    "id": 4565,
+    "title": "Gurren Lagann The Movie: The Lights in the Sky are Stars",
+    "image": "https://cdn.myanimelist.net/images/anime/12/19698l.jpg",
+    "score": 8.61,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Gainax",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 111
+  },
+  {
+    "id": 40591,
+    "title": "Kaguya-sama: Love is War?",
+    "image": "https://cdn.myanimelist.net/images/anime/1764/106659l.jpg",
+    "score": 8.61,
+    "year": 2020,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 107
+  },
+  {
+    "id": 19647,
+    "title": "Fighting Spirit: Rising",
+    "image": "https://cdn.myanimelist.net/images/anime/6/56147l.jpg",
+    "score": 8.61,
+    "year": 2013,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 105
+  },
+  {
+    "id": 33,
+    "title": "Berserk",
+    "image": "https://cdn.myanimelist.net/images/anime/1384/119988l.jpg",
+    "score": 8.61,
+    "year": 1997,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "OLM",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Horror"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 108
+  },
+  {
+    "id": 54898,
+    "title": "Bungo Stray Dogs 5",
+    "image": "https://cdn.myanimelist.net/images/anime/1161/136691l.jpg",
+    "score": 8.6,
+    "year": 2023,
+    "episodes": 11,
+    "source": "Manga",
+    "studio": "Bones",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 112
+  },
+  {
+    "id": 50250,
+    "title": "Chiikawa",
+    "image": "https://cdn.myanimelist.net/images/anime/1783/121944l.jpg",
+    "score": 8.6,
+    "year": 2022,
+    "episodes": null,
+    "source": "Web manga",
+    "studio": "Doga Kobo",
+    "genres": [
+      "Slice of Life"
+    ],
+    "type": "TV",
+    "status": "Currently Airing",
+    "season": "spring",
+    "rank": 113
+  },
+  {
+    "id": 36862,
+    "title": "Made in Abyss: Dawn of the Deep Soul",
+    "image": "https://cdn.myanimelist.net/images/anime/1803/117183l.jpg",
+    "score": 8.6,
+    "year": null,
+    "episodes": 1,
+    "source": "Web manga",
+    "studio": "Kinema Citrus",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 114
+  },
+  {
+    "id": 52701,
+    "title": "Delicious in Dungeon",
+    "image": "https://cdn.myanimelist.net/images/anime/1711/142478l.jpg",
+    "score": 8.59,
+    "year": 2024,
+    "episodes": 24,
+    "source": "Manga",
+    "studio": "Trigger",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy",
+      "Gourmet"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 116
+  },
+  {
+    "id": 38329,
+    "title": "Rascal Does Not Dream of a Dreaming Girl",
+    "image": "https://cdn.myanimelist.net/images/anime/1613/102179l.jpg",
+    "score": 8.59,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "CloverWorks",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 118
+  },
+  {
+    "id": 7311,
+    "title": "The Disappearance of Haruhi Suzumiya",
+    "image": "https://cdn.myanimelist.net/images/anime/1248/112352l.jpg",
+    "score": 8.59,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Award Winning",
+      "Mystery",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 119
+  },
+  {
+    "id": 41084,
+    "title": "Made in Abyss: The Golden City of the Scorching Sun",
+    "image": "https://cdn.myanimelist.net/images/anime/1864/122519l.jpg",
+    "score": 8.59,
+    "year": 2022,
+    "episodes": 12,
+    "source": "Web manga",
+    "studio": "Kinema Citrus",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 117
+  },
+  {
+    "id": 3786,
+    "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "image": "https://cdn.myanimelist.net/images/anime/1422/113533l.jpg",
+    "score": 8.58,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Khara",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 122
+  },
+  {
+    "id": 37991,
+    "title": "JoJo's Bizarre Adventure: Golden Wind",
+    "image": "https://cdn.myanimelist.net/images/anime/1882/94989l.jpg",
+    "score": 8.58,
+    "year": 2018,
+    "episodes": 39,
+    "source": "Manga",
+    "studio": "David Production",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 120
+  },
+  {
+    "id": 28957,
+    "title": "Mushi-Shi: The Next Chapter - Drops of Bells",
+    "image": "https://cdn.myanimelist.net/images/anime/9/72689l.jpg",
+    "score": 8.58,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Artland",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 121
+  },
+  {
+    "id": 63375,
+    "title": "Nippon Sangoku: The Three Nations of the Crimson Sun",
+    "image": "https://cdn.myanimelist.net/images/anime/1623/156387l.jpg",
+    "score": 8.57,
+    "year": 2026,
+    "episodes": 12,
+    "source": "Web manga",
+    "studio": "Studio Kafka",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 125
+  },
+  {
+    "id": 59636,
+    "title": "Umamusume: Cinderella Gray",
+    "image": "https://cdn.myanimelist.net/images/anime/1626/148097l.jpg",
+    "score": 8.57,
+    "year": 2025,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "CygamesPictures",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 128
+  },
+  {
+    "id": 55823,
+    "title": "Natsume's Book of Friends Season 7",
+    "image": "https://cdn.myanimelist.net/images/anime/1270/145168l.jpg",
+    "score": 8.57,
+    "year": 2024,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Shuka",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 124
+  },
+  {
+    "id": 16498,
+    "title": "Attack on Titan",
+    "image": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg",
+    "score": 8.57,
+    "year": 2013,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "Wit Studio",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Drama",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 126
+  },
+  {
+    "id": 877,
+    "title": "Nana",
+    "image": "https://cdn.myanimelist.net/images/anime/2/11232l.jpg",
+    "score": 8.57,
+    "year": 2006,
+    "episodes": 47,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 123
+  },
+  {
+    "id": 32,
+    "title": "Neon Genesis Evangelion: The End of Evangelion",
+    "image": "https://cdn.myanimelist.net/images/anime/1404/98182l.jpg",
+    "score": 8.57,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Gainax",
+    "genres": [
+      "Avant Garde",
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 127
+  },
+  {
+    "id": 32983,
+    "title": "Natsume's Book of Friends Season 5",
+    "image": "https://cdn.myanimelist.net/images/anime/11/81755l.jpg",
+    "score": 8.56,
+    "year": 2016,
+    "episodes": 11,
+    "source": "Manga",
+    "studio": "Shuka",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 131
+  },
+  {
+    "id": 12355,
+    "title": "Wolf Children",
+    "image": "https://cdn.myanimelist.net/images/anime/9/35721l.jpg",
+    "score": 8.56,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Studio Chizu",
+    "genres": [
+      "Award Winning",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 133
+  },
+  {
+    "id": 30484,
+    "title": "Steins;Gate 0",
+    "image": "https://cdn.myanimelist.net/images/anime/1375/93521l.jpg",
+    "score": 8.56,
+    "year": 2018,
+    "episodes": 23,
+    "source": "Visual novel",
+    "studio": "White Fox",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 136
+  },
+  {
+    "id": 437,
+    "title": "Perfect Blue",
+    "image": "https://cdn.myanimelist.net/images/anime/1254/134212l.jpg",
+    "score": 8.56,
+    "year": null,
+    "episodes": 1,
+    "source": "Novel",
+    "studio": "Madhouse",
+    "genres": [
+      "Avant Garde",
+      "Award Winning",
+      "Drama",
+      "Horror",
+      "Suspense"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 134
+  },
+  {
+    "id": 170,
+    "title": "Slam Dunk",
+    "image": "https://cdn.myanimelist.net/images/anime/12/86890l.jpg",
+    "score": 8.56,
+    "year": 1993,
+    "episodes": 101,
+    "source": "Manga",
+    "studio": "Toei Animation",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 135
+  },
+  {
+    "id": 40776,
+    "title": "Haikyu!! To the Top 2nd-cour",
+    "image": "https://cdn.myanimelist.net/images/anime/1453/106768l.jpg",
+    "score": 8.56,
+    "year": 2020,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 129
+  },
+  {
+    "id": 55255,
+    "title": "Alien Stage",
+    "image": "https://cdn.myanimelist.net/images/anime/1524/143502l.jpg",
+    "score": 8.55,
+    "year": null,
+    "episodes": 12,
+    "source": "Music",
+    "studio": "LICO",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "Music",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": null
+  },
+  {
+    "id": 51553,
+    "title": "Witch Hat Atelier",
+    "image": "https://cdn.myanimelist.net/images/anime/1726/155542l.jpg",
+    "score": 8.55,
+    "year": 2026,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "BUG FILMS",
+    "genres": [
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 139
+  },
+  {
+    "id": 36098,
+    "title": "I Want To Eat Your Pancreas",
+    "image": "https://cdn.myanimelist.net/images/anime/1768/93291l.jpg",
+    "score": 8.55,
+    "year": null,
+    "episodes": 1,
+    "source": "Novel",
+    "studio": "Studio VOLN",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 138
+  },
+  {
+    "id": 49701,
+    "title": "Fights Break Sphere Special 3: Three Years of Pledge",
+    "image": "https://cdn.myanimelist.net/images/anime/1029/118861l.jpg",
+    "score": 8.55,
+    "year": null,
+    "episodes": 13,
+    "source": "Web novel",
+    "studio": "Motion Magic",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 137
+  },
+  {
+    "id": 7785,
+    "title": "The Tatami Galaxy",
+    "image": "https://cdn.myanimelist.net/images/anime/1633/123689l.jpg",
+    "score": 8.55,
+    "year": 2010,
+    "episodes": 11,
+    "source": "Novel",
+    "studio": "Madhouse",
+    "genres": [
+      "Award Winning",
+      "Comedy",
+      "Mystery",
+      "Romance",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 140
+  },
+  {
+    "id": 28735,
+    "title": "Showa Genroku Rakugo Shinju",
+    "image": "https://cdn.myanimelist.net/images/anime/1354/124768l.jpg",
+    "score": 8.54,
+    "year": 2016,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Studio Deen",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 143
+  },
+  {
+    "id": 578,
+    "title": "Grave of the Fireflies",
+    "image": "https://cdn.myanimelist.net/images/anime/1485/141208l.jpg",
+    "score": 8.54,
+    "year": null,
+    "episodes": 1,
+    "source": "Novel",
+    "studio": "Studio Ghibli",
+    "genres": [
+      "Drama"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 141
+  },
+  {
+    "id": 52034,
+    "title": "[Oshi No Ko]",
+    "image": "https://cdn.myanimelist.net/images/anime/1812/134736l.jpg",
+    "score": 8.53,
+    "year": 2023,
+    "episodes": 11,
+    "source": "Manga",
+    "studio": "Doga Kobo",
+    "genres": [
+      "Award Winning",
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 149
+  },
+  {
+    "id": 21329,
+    "title": "Mushi-shi: The Shadow that Devours the Sun",
+    "image": "https://cdn.myanimelist.net/images/anime/1559/147521l.jpg",
+    "score": 8.53,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Artland",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "TV Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 147
+  },
+  {
+    "id": 40456,
+    "title": "Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train",
+    "image": "https://cdn.myanimelist.net/images/anime/1704/106947l.jpg",
+    "score": 8.53,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "ufotable",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 146
+  },
+  {
+    "id": 61903,
+    "title": "Kaguya-sama: Love Is War - Stairway to Adulthood",
+    "image": "https://cdn.myanimelist.net/images/anime/1112/150697l.jpg",
+    "score": 8.52,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 152
+  },
+  {
+    "id": 7472,
+    "title": "Gintama: The Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/4/28803l.jpg",
+    "score": 8.52,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Sunrise",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 151
+  },
+  {
+    "id": 40664,
+    "title": "Revue Starlight: The Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1378/119190l.jpg",
+    "score": 8.52,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Kinema Citrus",
+    "genres": [
+      "Drama"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 155
+  },
+  {
+    "id": 205,
+    "title": "Samurai Champloo",
+    "image": "https://cdn.myanimelist.net/images/anime/1370/135212l.jpg",
+    "score": 8.52,
+    "year": 2004,
+    "episodes": 26,
+    "source": "Original",
+    "studio": "Manglobe",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 154
+  },
+  {
+    "id": 11981,
+    "title": "Puella Magi Madoka Magica the Movie: Rebellion",
+    "image": "https://cdn.myanimelist.net/images/anime/5/54231l.jpg",
+    "score": 8.51,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Shaft",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Suspense"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 162
+  },
+  {
+    "id": 31933,
+    "title": "JoJo's Bizarre Adventure: Diamond Is Unbreakable",
+    "image": "https://cdn.myanimelist.net/images/anime/3/79156l.jpg",
+    "score": 8.51,
+    "year": 2016,
+    "episodes": 39,
+    "source": "Manga",
+    "studio": "David Production",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 159
+  },
+  {
+    "id": 35843,
+    "title": "Gintama. Slip Arc",
+    "image": "https://cdn.myanimelist.net/images/anime/11/88325l.jpg",
+    "score": 8.51,
+    "year": 2017,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Bandai Namco Pictures",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 158
+  },
+  {
+    "id": 801,
+    "title": "Ghost in the Shell: Stand Alone Complex 2nd GIG",
+    "image": "https://cdn.myanimelist.net/images/anime/1646/135390l.jpg",
+    "score": 8.51,
+    "year": 2004,
+    "episodes": 26,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 161
+  },
+  {
+    "id": 62076,
+    "title": "Smoking Behind the Supermarket with You",
+    "image": "https://cdn.myanimelist.net/images/anime/1768/156339l.jpg",
+    "score": 8.5,
+    "year": 2026,
+    "episodes": null,
+    "source": "Manga",
+    "studio": "Asahi Production",
+    "genres": [
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Currently Airing",
+    "season": "summer",
+    "rank": 169
+  },
+  {
+    "id": 60988,
+    "title": "Heaven Official's Blessing Short Films",
+    "image": "https://cdn.myanimelist.net/images/anime/1174/149943l.jpg",
+    "score": 8.5,
+    "year": null,
+    "episodes": null,
+    "source": "Web novel",
+    "studio": "Red Dog Culture House",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "ONA",
+    "status": "Currently Airing",
+    "season": "Unknown",
+    "rank": 170
+  },
+  {
+    "id": 58222,
+    "title": "given The Movie: To the Sea",
+    "image": "https://cdn.myanimelist.net/images/anime/1663/144261l.jpg",
+    "score": 8.5,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Lerche",
+    "genres": [
+      "Boys Love",
+      "Drama"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 164
+  },
+  {
+    "id": 55809,
+    "title": "Renegade Immortal",
+    "image": "https://cdn.myanimelist.net/images/anime/1289/149708l.jpg",
+    "score": 8.5,
+    "year": null,
+    "episodes": 180,
+    "source": "Web novel",
+    "studio": "BUILD DREAM",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "ONA",
+    "status": "Currently Airing",
+    "season": "Unknown",
+    "rank": 171
+  },
+  {
+    "id": 35839,
+    "title": "A Place Further Than The Universe",
+    "image": "https://cdn.myanimelist.net/images/anime/6/89879l.jpg",
+    "score": 8.5,
+    "year": 2018,
+    "episodes": 13,
+    "source": "Original",
+    "studio": "Madhouse",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 168
+  },
+  {
+    "id": 4282,
+    "title": "The Garden of Sinners Chapter 5: Paradox Spiral",
+    "image": "https://cdn.myanimelist.net/images/anime/4/75851l.jpg",
+    "score": 8.5,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "ufotable",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Romance",
+      "Suspense"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 167
+  },
+  {
+    "id": 40748,
+    "title": "Jujutsu Kaisen",
+    "image": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
+    "score": 8.5,
+    "year": 2020,
+    "episodes": 24,
+    "source": "Manga",
+    "studio": "MAPPA",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 166
+  },
+  {
+    "id": 59845,
+    "title": "The Fragrant Flower Blooms with Dignity",
+    "image": "https://cdn.myanimelist.net/images/anime/1744/150433l.jpg",
+    "score": 8.49,
+    "year": 2025,
+    "episodes": 13,
+    "source": "Web manga",
+    "studio": "CloverWorks",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 173
+  },
+  {
+    "id": 32182,
+    "title": "Mob Psycho 100",
+    "image": "https://cdn.myanimelist.net/images/anime/8/80356l.jpg",
+    "score": 8.49,
+    "year": 2016,
+    "episodes": 12,
+    "source": "Web manga",
+    "studio": "Bones",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 174
+  },
+  {
+    "id": 12431,
+    "title": "Space Brothers",
+    "image": "https://cdn.myanimelist.net/images/anime/1290/135694l.jpg",
+    "score": 8.48,
+    "year": 2012,
+    "episodes": 99,
+    "source": "Manga",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 178
+  },
+  {
+    "id": 3297,
+    "title": "Aria the Origination",
+    "image": "https://cdn.myanimelist.net/images/anime/1431/132867l.jpg",
+    "score": 8.48,
+    "year": 2008,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "HAL Film Maker",
+    "genres": [
+      "Sci-Fi",
+      "Slice of Life"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 175
+  },
+  {
+    "id": 40834,
+    "title": "Ranking of Kings",
+    "image": "https://cdn.myanimelist.net/images/anime/1347/117616l.jpg",
+    "score": 8.48,
+    "year": 2021,
+    "episodes": 23,
+    "source": "Web manga",
+    "studio": "Wit Studio",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 177
+  },
+  {
+    "id": 62896,
+    "title": "Cosmic Princess Kaguya!",
+    "image": "https://cdn.myanimelist.net/images/anime/1758/153953l.jpg",
+    "score": 8.47,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Studio Colorido",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 180
+  },
+  {
+    "id": 37779,
+    "title": "The Promised Neverland",
+    "image": "https://cdn.myanimelist.net/images/anime/1830/118780l.jpg",
+    "score": 8.47,
+    "year": 2019,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "CloverWorks",
+    "genres": [
+      "Mystery",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 184
+  },
+  {
+    "id": 30654,
+    "title": "Assassination Classroom Second Season",
+    "image": "https://cdn.myanimelist.net/images/anime/8/77966l.jpg",
+    "score": 8.47,
+    "year": 2016,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "Lerche",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 179
+  },
+  {
+    "id": 30276,
+    "title": "One-Punch Man",
+    "image": "https://cdn.myanimelist.net/images/anime/12/76049l.jpg",
+    "score": 8.47,
+    "year": 2015,
+    "episodes": 12,
+    "source": "Web manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 182
+  },
+  {
+    "id": 44070,
+    "title": "Heaven Official's Blessing Special",
+    "image": "https://cdn.myanimelist.net/images/anime/1043/110306l.jpg",
+    "score": 8.47,
+    "year": null,
+    "episodes": 1,
+    "source": "Web novel",
+    "studio": "Haoliners Animation",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 183
+  },
+  {
+    "id": 10165,
+    "title": "Nichijou - My Ordinary Life",
+    "image": "https://cdn.myanimelist.net/images/anime/3/75617l.jpg",
+    "score": 8.47,
+    "year": 2011,
+    "episodes": 26,
+    "source": "Manga",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 181
+  },
+  {
+    "id": 63019,
+    "title": "Love Through a Prism",
+    "image": "https://cdn.myanimelist.net/images/anime/1862/153881l.jpg",
+    "score": 8.46,
+    "year": null,
+    "episodes": 20,
+    "source": "Original",
+    "studio": "Wit Studio",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 189
+  },
+  {
+    "id": 60544,
+    "title": "Ne Zha 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1616/147002l.jpg",
+    "score": 8.46,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "October Media",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 188
+  },
+  {
+    "id": 38450,
+    "title": "The Master of Diabolism 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1404/106707l.jpg",
+    "score": 8.46,
+    "year": null,
+    "episodes": 8,
+    "source": "Web novel",
+    "studio": "B.CMAY PICTURES",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 187
+  },
+  {
+    "id": 6114,
+    "title": "Rainbow",
+    "image": "https://cdn.myanimelist.net/images/anime/9/72697l.jpg",
+    "score": 8.46,
+    "year": 2010,
+    "episodes": 26,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Drama",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 190
+  },
+  {
+    "id": 392,
+    "title": "Yu Yu Hakusho: Ghost Files",
+    "image": "https://cdn.myanimelist.net/images/anime/1228/111372l.jpg",
+    "score": 8.46,
+    "year": 1992,
+    "episodes": 112,
+    "source": "Manga",
+    "studio": "Studio Pierrot",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 192
+  },
+  {
+    "id": 47194,
+    "title": "Summer Time Rendering",
+    "image": "https://cdn.myanimelist.net/images/anime/1120/120796l.jpg",
+    "score": 8.46,
+    "year": 2022,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "OLM",
+    "genres": [
+      "Mystery",
+      "Supernatural",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 191
+  },
+  {
+    "id": 37379,
+    "title": "Chihayafuru 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1898/110709l.jpg",
+    "score": 8.46,
+    "year": 2019,
+    "episodes": 24,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 185
+  },
+  {
+    "id": 37208,
+    "title": "The Master of Diabolism",
+    "image": "https://cdn.myanimelist.net/images/anime/1908/153734l.jpg",
+    "score": 8.45,
+    "year": null,
+    "episodes": 15,
+    "source": "Web novel",
+    "studio": "B.CMAY PICTURES",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 196
+  },
+  {
+    "id": 31181,
+    "title": "Owarimonogatari",
+    "image": "https://cdn.myanimelist.net/images/anime/8/76479l.jpg",
+    "score": 8.45,
+    "year": 2015,
+    "episodes": 12,
+    "source": "Light novel",
+    "studio": "Shaft",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 197
+  },
+  {
+    "id": 11577,
+    "title": "Steins;Gate: The Movie - Load Region of Déjà Vu",
+    "image": "https://cdn.myanimelist.net/images/anime/1611/112806l.jpg",
+    "score": 8.45,
+    "year": null,
+    "episodes": 1,
+    "source": "Visual novel",
+    "studio": "White Fox",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 198
+  },
+  {
+    "id": 36649,
+    "title": "Banana Fish",
+    "image": "https://cdn.myanimelist.net/images/anime/1190/93472l.jpg",
+    "score": 8.45,
+    "year": 2018,
+    "episodes": 24,
+    "source": "Manga",
+    "studio": "MAPPA",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 193
+  },
+  {
+    "id": 37105,
+    "title": "Grand Blue Dreaming",
+    "image": "https://cdn.myanimelist.net/images/anime/1302/94882l.jpg",
+    "score": 8.45,
+    "year": 2018,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Zero-G",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 195
+  },
+  {
+    "id": 44087,
+    "title": "Gintama: The Semi-Final",
+    "image": "https://cdn.myanimelist.net/images/anime/1694/110521l.jpg",
+    "score": 8.45,
+    "year": null,
+    "episodes": 2,
+    "source": "Manga",
+    "studio": "Bandai Namco Pictures",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "type": "Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 194
+  },
+  {
+    "id": 35737,
+    "title": "Pluto",
+    "image": "https://cdn.myanimelist.net/images/anime/1021/138568l.jpg",
+    "score": 8.44,
+    "year": null,
+    "episodes": 8,
+    "source": "Manga",
+    "studio": "Studio M2",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 202
+  },
+  {
+    "id": 36999,
+    "title": "Zoku Owarimonogatari",
+    "image": "https://cdn.myanimelist.net/images/anime/1022/96168l.jpg",
+    "score": 8.44,
+    "year": 2019,
+    "episodes": 6,
+    "source": "Light novel",
+    "studio": "Shaft",
+    "genres": [
+      "Comedy",
+      "Mystery",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 203
+  },
+  {
+    "id": 26055,
+    "title": "JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
+    "image": "https://cdn.myanimelist.net/images/anime/11/75045l.jpg",
+    "score": 8.44,
+    "year": 2015,
+    "episodes": 24,
+    "source": "Manga",
+    "studio": "David Production",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 200
+  },
+  {
+    "id": 136,
+    "title": "Hunter x Hunter",
+    "image": "https://cdn.myanimelist.net/images/anime/1305/132237l.jpg",
+    "score": 8.44,
+    "year": 1999,
+    "episodes": 62,
+    "source": "Manga",
+    "studio": "Nippon Animation",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 199
+  },
+  {
+    "id": 39741,
+    "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+    "image": "https://cdn.myanimelist.net/images/anime/1667/112943l.jpg",
+    "score": 8.43,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Drama"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 206
+  },
+  {
+    "id": 20583,
+    "title": "Haikyu!!",
+    "image": "https://cdn.myanimelist.net/images/anime/7/76014l.jpg",
+    "score": 8.43,
+    "year": 2014,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 205
+  },
+  {
+    "id": 24687,
+    "title": "Mushi-shi Path of Thorns",
+    "image": "https://cdn.myanimelist.net/images/anime/8/63539l.jpg",
+    "score": 8.42,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Artland",
+    "genres": [
+      "Adventure",
+      "Mystery",
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "TV Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 212
+  },
+  {
+    "id": 36538,
+    "title": "Natsume's Book of Friends Movie: Ephemeral Bond",
+    "image": "https://cdn.myanimelist.net/images/anime/1250/94846l.jpg",
+    "score": 8.42,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Shuka",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 213
+  },
+  {
+    "id": 44511,
+    "title": "Chainsaw Man",
+    "image": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
+    "score": 8.42,
+    "year": 2022,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "MAPPA",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 207
+  },
+  {
+    "id": 25781,
+    "title": "Attack on Titan: No Regrets",
+    "image": "https://cdn.myanimelist.net/images/anime/8/69497l.jpg",
+    "score": 8.42,
+    "year": null,
+    "episodes": 2,
+    "source": "Visual novel",
+    "studio": "Wit Studio",
+    "genres": [
+      "Action"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 217
+  },
+  {
+    "id": 467,
+    "title": "Ghost in the Shell: Stand Alone Complex",
+    "image": "https://cdn.myanimelist.net/images/anime/11/50857l.jpg",
+    "score": 8.42,
+    "year": 2002,
+    "episodes": 26,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Award Winning",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 211
+  },
+  {
+    "id": 36885,
+    "title": "Saekano the Movie: Finale",
+    "image": "https://cdn.myanimelist.net/images/anime/1671/111411l.jpg",
+    "score": 8.42,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "CloverWorks",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 216
+  },
+  {
+    "id": 51039,
+    "title": "Battle Through The Heavens Season 5",
+    "image": "https://cdn.myanimelist.net/images/anime/1419/126374l.jpg",
+    "score": 8.42,
+    "year": null,
+    "episodes": 209,
+    "source": "Web novel",
+    "studio": "Motion Magic",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "ONA",
+    "status": "Currently Airing",
+    "season": "Unknown",
+    "rank": 208
+  },
+  {
+    "id": 62340,
+    "title": "Beyond Time's Gaze",
+    "image": "https://cdn.myanimelist.net/images/anime/1628/153418l.jpg",
+    "score": 8.41,
+    "year": null,
+    "episodes": 26,
+    "source": "Web novel",
+    "studio": "Yien Animation Studio",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 220
+  },
+  {
+    "id": 53672,
+    "title": "Violet Evergarden: Recollections",
+    "image": "https://cdn.myanimelist.net/images/anime/1902/143097l.jpg",
+    "score": 8.41,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Drama"
+    ],
+    "type": "Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 227
+  },
+  {
+    "id": 33255,
+    "title": "The Disastrous Life of Saiki K.",
+    "image": "https://cdn.myanimelist.net/images/anime/1973/142750l.jpg",
+    "score": 8.41,
+    "year": 2016,
+    "episodes": 120,
+    "source": "Manga",
+    "studio": "J.C.Staff",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 223
+  },
+  {
+    "id": 34612,
+    "title": "The Disastrous Life of Saiki K. 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1961/91383l.jpg",
+    "score": 8.41,
+    "year": 2018,
+    "episodes": 24,
+    "source": "Manga",
+    "studio": "J.C.Staff",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 224
+  },
+  {
+    "id": 21899,
+    "title": "Gintama: Yorinuki Gintama-san on Theater 2D",
+    "image": "https://cdn.myanimelist.net/images/anime/1172/90571l.jpg",
+    "score": 8.41,
+    "year": null,
+    "episodes": 2,
+    "source": "Manga",
+    "studio": "Sunrise",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 219
+  },
+  {
+    "id": 40730,
+    "title": "Heaven Official's Blessing",
+    "image": "https://cdn.myanimelist.net/images/anime/1319/109301l.jpg",
+    "score": 8.41,
+    "year": null,
+    "episodes": 11,
+    "source": "Web novel",
+    "studio": "Haoliners Animation",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 226
+  },
+  {
+    "id": 2246,
+    "title": "Mononoke",
+    "image": "https://cdn.myanimelist.net/images/anime/3/20713l.jpg",
+    "score": 8.41,
+    "year": 2007,
+    "episodes": 12,
+    "source": "Original",
+    "studio": "Toei Animation",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Supernatural",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 222
+  },
+  {
+    "id": 30709,
+    "title": "Kamisama Hajimemashita: Kako-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/3/81250l.jpg",
+    "score": 8.41,
+    "year": null,
+    "episodes": 4,
+    "source": "Manga",
+    "studio": "TMS Entertainment",
+    "genres": [
+      "Comedy",
+      "Romance",
+      "Supernatural"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 221
+  },
+  {
+    "id": 50265,
+    "title": "Spy x Family",
+    "image": "https://cdn.myanimelist.net/images/anime/1441/122795l.jpg",
+    "score": 8.41,
+    "year": 2022,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Wit Studio",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 225
+  },
+  {
+    "id": 50330,
+    "title": "Bungo Stray Dogs 4",
+    "image": "https://cdn.myanimelist.net/images/anime/1263/132759l.jpg",
+    "score": 8.41,
+    "year": 2023,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Bones",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 218
+  },
+  {
+    "id": 57334,
+    "title": "Dan Da Dan",
+    "image": "https://cdn.myanimelist.net/images/anime/1584/143719l.jpg",
+    "score": 8.4,
+    "year": 2024,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Science SARU",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 229
+  },
+  {
+    "id": 36275,
+    "title": "Natsume's Book of Friends Season 6 Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/10/87615l.jpg",
+    "score": 8.4,
+    "year": null,
+    "episodes": 2,
+    "source": "Manga",
+    "studio": "Shuka",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 234
+  },
+  {
+    "id": 35851,
+    "title": "Maquia: When the Promised Flower Blooms",
+    "image": "https://cdn.myanimelist.net/images/anime/11/89556l.jpg",
+    "score": 8.4,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "P.A. Works",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 235
+  },
+  {
+    "id": 49722,
+    "title": "Teasing Master Takagi-san: The Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1376/123398l.jpg",
+    "score": 8.4,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Shin-Ei Animation",
+    "genres": [
+      "Romance"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 231
+  },
+  {
+    "id": 50183,
+    "title": "Blue Giant",
+    "image": "https://cdn.myanimelist.net/images/anime/1958/132159l.jpg",
+    "score": 8.4,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Nut",
+    "genres": [
+      "Drama"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 228
+  },
+  {
+    "id": 38040,
+    "title": "KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson",
+    "image": "https://cdn.myanimelist.net/images/anime/1638/119321l.jpg",
+    "score": 8.4,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "J.C.Staff",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 233
+  },
+  {
+    "id": 37999,
+    "title": "Kaguya-sama: Love is War",
+    "image": "https://cdn.myanimelist.net/images/anime/1295/106551l.jpg",
+    "score": 8.4,
+    "year": 2019,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 230
+  },
+  {
+    "id": 38000,
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "image": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
+    "score": 8.4,
+    "year": 2019,
+    "episodes": 26,
+    "source": "Manga",
+    "studio": "ufotable",
+    "genres": [
+      "Action",
+      "Award Winning",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 232
+  },
+  {
+    "id": 45556,
+    "title": "Scissor Seven: Xuanwu Kingdom Chapter",
+    "image": "https://cdn.myanimelist.net/images/anime/1884/111224l.jpg",
+    "score": 8.4,
+    "year": null,
+    "episodes": 10,
+    "source": "Original",
+    "studio": "Sharefun Studio",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Mystery"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 236
+  },
+  {
+    "id": 37515,
+    "title": "Made in Abyss: Wandering Twilight",
+    "image": "https://cdn.myanimelist.net/images/anime/1336/95168l.jpg",
+    "score": 8.39,
+    "year": null,
+    "episodes": 1,
+    "source": "Web manga",
+    "studio": "Kinema Citrus",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Mystery",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 241
+  },
+  {
+    "id": 35557,
+    "title": "Land of the Lustrous",
+    "image": "https://cdn.myanimelist.net/images/anime/3/88293l.jpg",
+    "score": 8.39,
+    "year": 2017,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Orange",
+    "genres": [
+      "Action",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 240
+  },
+  {
+    "id": 5028,
+    "title": "Major S5",
+    "image": "https://cdn.myanimelist.net/images/anime/9/75218l.jpg",
+    "score": 8.39,
+    "year": 2009,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "SynergySP",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 243
+  },
+  {
+    "id": 9756,
+    "title": "Puella Magi Madoka Magica",
+    "image": "https://cdn.myanimelist.net/images/anime/11/55225l.jpg",
+    "score": 8.39,
+    "year": 2011,
+    "episodes": 12,
+    "source": "Original",
+    "studio": "Shaft",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 242
+  },
+  {
+    "id": 60570,
+    "title": "Ling Cage 2",
+    "image": "https://cdn.myanimelist.net/images/anime/1980/150040l.jpg",
+    "score": 8.38,
+    "year": null,
+    "episodes": 12,
+    "source": "Original",
+    "studio": "YHKT Entertainment",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 248
+  },
+  {
+    "id": 55318,
+    "title": "Medalist",
+    "image": "https://cdn.myanimelist.net/images/anime/1029/146850l.jpg",
+    "score": 8.38,
+    "year": 2025,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "ENGI",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 250
+  },
+  {
+    "id": 53236,
+    "title": "Road of Naruto",
+    "image": "https://cdn.myanimelist.net/images/anime/1731/128787l.jpg",
+    "score": 8.38,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Studio Pierrot",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "type": "PV",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": null
+  },
+  {
+    "id": 4921,
+    "title": "Ramayana: The Legend of Prince Rama",
+    "image": "https://cdn.myanimelist.net/images/anime/1070/104671l.jpg",
+    "score": 8.38,
+    "year": null,
+    "episodes": 1,
+    "source": "Other",
+    "studio": "Nippon Ramayana Film",
+    "genres": [
+      "Adventure"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 252
+  },
+  {
+    "id": 2402,
+    "title": "Tomorrow's Joe",
+    "image": "https://cdn.myanimelist.net/images/anime/5/64671l.jpg",
+    "score": 8.38,
+    "year": 1970,
+    "episodes": 79,
+    "source": "Manga",
+    "studio": "Mushi Production",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 244
+  },
+  {
+    "id": 37965,
+    "title": "Run with the Wind",
+    "image": "https://cdn.myanimelist.net/images/anime/1936/129119l.jpg",
+    "score": 8.38,
+    "year": 2018,
+    "episodes": 23,
+    "source": "Novel",
+    "studio": "Production I.G",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 247
+  },
+  {
+    "id": 40787,
+    "title": "Josee, the Tiger and the Fish",
+    "image": "https://cdn.myanimelist.net/images/anime/1714/108892l.jpg",
+    "score": 8.38,
+    "year": null,
+    "episodes": 1,
+    "source": "Novel",
+    "studio": "Bones",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 246
+  },
+  {
+    "id": 5,
+    "title": "Cowboy Bebop: The Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1439/93480l.jpg",
+    "score": 8.38,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Bones",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 245
+  },
+  {
+    "id": 5941,
+    "title": "Cross Game",
+    "image": "https://cdn.myanimelist.net/images/anime/6/22103l.jpg",
+    "score": 8.37,
+    "year": 2009,
+    "episodes": 50,
+    "source": "Manga",
+    "studio": "SynergySP",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 255
+  },
+  {
+    "id": 31646,
+    "title": "March Comes In Like a Lion",
+    "image": "https://cdn.myanimelist.net/images/anime/3/82899l.jpg",
+    "score": 8.37,
+    "year": 2016,
+    "episodes": 22,
+    "source": "Manga",
+    "studio": "Shaft",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 253
+  },
+  {
+    "id": 46095,
+    "title": "Vivy -Fluorite Eye's Song-",
+    "image": "https://cdn.myanimelist.net/images/anime/1551/128960l.jpg",
+    "score": 8.37,
+    "year": 2021,
+    "episodes": 13,
+    "source": "Original",
+    "studio": "Wit Studio",
+    "genres": [
+      "Action",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 260
+  },
+  {
+    "id": 38883,
+    "title": "Haikyu!! To the Top",
+    "image": "https://cdn.myanimelist.net/images/anime/1813/105367l.jpg",
+    "score": 8.37,
+    "year": 2020,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 258
+  },
+  {
+    "id": 14397,
+    "title": "Chihayafuru 2",
+    "image": "https://cdn.myanimelist.net/images/anime/6/47435l.jpg",
+    "score": 8.37,
+    "year": 2013,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 254
+  },
+  {
+    "id": 32366,
+    "title": "Gintama: Love Incense Arc",
+    "image": "https://cdn.myanimelist.net/images/anime/1962/133573l.jpg",
+    "score": 8.37,
+    "year": null,
+    "episodes": 2,
+    "source": "Manga",
+    "studio": "Bandai Namco Pictures",
+    "genres": [
+      "Comedy"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 257
+  },
+  {
+    "id": 38475,
+    "title": "Laid-Back Camp: The Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1806/124396l.jpg",
+    "score": 8.37,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "C-Station",
+    "genres": [
+      "Slice of Life"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 261
+  },
+  {
+    "id": 30,
+    "title": "Neon Genesis Evangelion",
+    "image": "https://cdn.myanimelist.net/images/anime/1314/108941l.jpg",
+    "score": 8.37,
+    "year": 1995,
+    "episodes": 26,
+    "source": "Original",
+    "studio": "Gainax",
+    "genres": [
+      "Avant Garde",
+      "Award Winning",
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 259
+  },
+  {
+    "id": 55102,
+    "title": "Girls Band Cry",
+    "image": "https://cdn.myanimelist.net/images/anime/1711/140515l.jpg",
+    "score": 8.36,
+    "year": 2024,
+    "episodes": 13,
+    "source": "Original",
+    "studio": "Toei Animation",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 266
+  },
+  {
+    "id": 9617,
+    "title": "K-ON! The Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/5/76233l.jpg",
+    "score": 8.36,
+    "year": null,
+    "episodes": 1,
+    "source": "4-koma manga",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Award Winning",
+      "Comedy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 269
+  },
+  {
+    "id": 9260,
+    "title": "Kizumonogatari Part 1: Iron-Blooded",
+    "image": "https://cdn.myanimelist.net/images/anime/1783/112810l.jpg",
+    "score": 8.36,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "Shaft",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 273
+  },
+  {
+    "id": 6945,
+    "title": "Gintama: Jump Festa 2008 Special",
+    "image": "https://cdn.myanimelist.net/images/anime/6/16161l.jpg",
+    "score": 8.36,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Sunrise",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 265
+  },
+  {
+    "id": 48561,
+    "title": "Jujutsu Kaisen 0",
+    "image": "https://cdn.myanimelist.net/images/anime/1121/119044l.jpg",
+    "score": 8.36,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "MAPPA",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 268
+  },
+  {
+    "id": 572,
+    "title": "Nausicaä of the Valley of the Wind",
+    "image": "https://cdn.myanimelist.net/images/anime/10/75914l.jpg",
+    "score": 8.36,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Topcraft",
+    "genres": [
+      "Adventure",
+      "Award Winning",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 272
+  },
+  {
+    "id": 338,
+    "title": "The Rose of Versailles",
+    "image": "https://cdn.myanimelist.net/images/anime/9/57043l.jpg",
+    "score": 8.36,
+    "year": 1979,
+    "episodes": 40,
+    "source": "Manga",
+    "studio": "Tokyo Movie Shinsha",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 275
+  },
+  {
+    "id": 10534,
+    "title": "Doraemon: Nobita and the Steel Troops - The New Age",
+    "image": "https://cdn.myanimelist.net/images/anime/7/72436l.jpg",
+    "score": 8.36,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Shin-Ei Animation",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 263
+  },
+  {
+    "id": 185,
+    "title": "Initial D First Stage",
+    "image": "https://cdn.myanimelist.net/images/anime/1384/127972l.jpg",
+    "score": 8.36,
+    "year": 1998,
+    "episodes": 26,
+    "source": "Manga",
+    "studio": "Gallop",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 267
+  },
+  {
+    "id": 49721,
+    "title": "Teasing Master Takagi-san 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1861/120361l.jpg",
+    "score": 8.36,
+    "year": 2022,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Shin-Ei Animation",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 271
+  },
+  {
+    "id": 37095,
+    "title": "Violet Evergarden: The Day You Understand \"I Love You\" Will Surely Come",
+    "image": "https://cdn.myanimelist.net/images/anime/9/89993l.jpg",
+    "score": 8.36,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Drama"
+    ],
+    "type": "Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 276
+  },
+  {
+    "id": 22789,
+    "title": "Barakamon",
+    "image": "https://cdn.myanimelist.net/images/anime/1426/111248l.jpg",
+    "score": 8.36,
+    "year": 2014,
+    "episodes": 12,
+    "source": "Web manga",
+    "studio": "Kinema Citrus",
+    "genres": [
+      "Slice of Life"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 262
+  },
+  {
+    "id": 53540,
+    "title": "Detective Conan Movie 26: Black Iron Submarine",
+    "image": "https://cdn.myanimelist.net/images/anime/1138/133101l.jpg",
+    "score": 8.35,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "TMS Entertainment",
+    "genres": [
+      "Action",
+      "Mystery"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 281
+  },
+  {
+    "id": 39547,
+    "title": "My Teen Romantic Comedy SNAFU Climax!",
+    "image": "https://cdn.myanimelist.net/images/anime/1958/107912l.jpg",
+    "score": 8.35,
+    "year": 2020,
+    "episodes": 12,
+    "source": "Light novel",
+    "studio": "feel.",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 283
+  },
+  {
+    "id": 31988,
+    "title": "Sound! Euphonium 2",
+    "image": "https://cdn.myanimelist.net/images/anime/10/81155l.jpg",
+    "score": 8.35,
+    "year": 2016,
+    "episodes": 13,
+    "source": "Novel",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 280
+  },
+  {
+    "id": 39808,
+    "title": "Non Non Biyori Nonstop",
+    "image": "https://cdn.myanimelist.net/images/anime/1033/111540l.jpg",
+    "score": 8.35,
+    "year": 2021,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "SILVER LINK.",
+    "genres": [
+      "Slice of Life"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 282
+  },
+  {
+    "id": 41025,
+    "title": "To Your Eternity",
+    "image": "https://cdn.myanimelist.net/images/anime/1880/118484l.jpg",
+    "score": 8.35,
+    "year": 2021,
+    "episodes": 20,
+    "source": "Manga",
+    "studio": "Brain's Base",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 279
+  },
+  {
+    "id": 41457,
+    "title": "86 Eighty-Six",
+    "image": "https://cdn.myanimelist.net/images/anime/1987/117507l.jpg",
+    "score": 8.35,
+    "year": 2021,
+    "episodes": 11,
+    "source": "Light novel",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 277
+  },
+  {
+    "id": 49310,
+    "title": "Fruits Basket: Prelude",
+    "image": "https://cdn.myanimelist.net/images/anime/1034/120096l.jpg",
+    "score": 8.35,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "TMS Entertainment",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 278
+  },
+  {
+    "id": 58919,
+    "title": "100 Meters",
+    "image": "https://cdn.myanimelist.net/images/anime/1259/151080l.jpg",
+    "score": 8.34,
+    "year": null,
+    "episodes": 1,
+    "source": "Web manga",
+    "studio": "Rock'n Roll Mountain",
+    "genres": [
+      "Drama",
+      "Sports"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 286
+  },
+  {
+    "id": 2251,
+    "title": "Baccano!",
+    "image": "https://cdn.myanimelist.net/images/anime/3/14547l.jpg",
+    "score": 8.34,
+    "year": 2007,
+    "episodes": 13,
+    "source": "Light novel",
+    "studio": "Brain's Base",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 284
+  },
+  {
+    "id": 777,
+    "title": "Hellsing Ultimate",
+    "image": "https://cdn.myanimelist.net/images/anime/1012/143965l.jpg",
+    "score": 8.34,
+    "year": null,
+    "episodes": 10,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Action",
+      "Horror",
+      "Supernatural"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 285
+  },
+  {
+    "id": 10937,
+    "title": "Mobile Suit Gundam: The Origin",
+    "image": "https://cdn.myanimelist.net/images/anime/4/72702l.jpg",
+    "score": 8.33,
+    "year": null,
+    "episodes": 6,
+    "source": "Manga",
+    "studio": "Sunrise",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 291
+  },
+  {
+    "id": 49458,
+    "title": "KonoSuba: God's Blessing on This Wonderful World! 3",
+    "image": "https://cdn.myanimelist.net/images/anime/1758/141268l.jpg",
+    "score": 8.33,
+    "year": 2024,
+    "episodes": 11,
+    "source": "Light novel",
+    "studio": "Drive",
+    "genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 293
+  },
+  {
+    "id": 49926,
+    "title": "Demon Slayer: Kimetsu no Yaiba Mugen Train Arc",
+    "image": "https://cdn.myanimelist.net/images/anime/1065/118763l.jpg",
+    "score": 8.33,
+    "year": 2021,
+    "episodes": 7,
+    "source": "Manga",
+    "studio": "ufotable",
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 292
+  },
+  {
+    "id": 51805,
+    "title": "Legend of the Galactic Heroes: Die Neue These - Intrigue",
+    "image": "https://cdn.myanimelist.net/images/anime/1700/123762l.jpg",
+    "score": 8.32,
+    "year": null,
+    "episodes": 12,
+    "source": "Novel",
+    "studio": "Production I.G",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 299
+  },
+  {
+    "id": 12029,
+    "title": "Star Blazers: Space Battleship Yamato 2199",
+    "image": "https://cdn.myanimelist.net/images/anime/2/36607l.jpg",
+    "score": 8.32,
+    "year": null,
+    "episodes": 26,
+    "source": "Original",
+    "studio": "Xebec",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 310
+  },
+  {
+    "id": 5040,
+    "title": "One Outs",
+    "image": "https://cdn.myanimelist.net/images/anime/7/21065l.jpg",
+    "score": 8.32,
+    "year": 2008,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Sports",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 308
+  },
+  {
+    "id": 7655,
+    "title": "Major S6",
+    "image": "https://cdn.myanimelist.net/images/anime/2/75216l.jpg",
+    "score": 8.32,
+    "year": 2010,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "SynergySP",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 303
+  },
+  {
+    "id": 2559,
+    "title": "Romeo's Blue Skies",
+    "image": "https://cdn.myanimelist.net/images/anime/4/17979l.jpg",
+    "score": 8.32,
+    "year": 1995,
+    "episodes": 33,
+    "source": "Novel",
+    "studio": "Nippon Animation",
+    "genres": [
+      "Adventure",
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 309
+  },
+  {
+    "id": 42984,
+    "title": "Gotcha!",
+    "image": "https://cdn.myanimelist.net/images/anime/1637/109512l.jpg",
+    "score": 8.32,
+    "year": null,
+    "episodes": 1,
+    "source": "Game",
+    "studio": "Bones",
+    "genres": [
+      "Fantasy"
+    ],
+    "type": "Music",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": null
+  },
+  {
+    "id": 34240,
+    "title": "Shelter",
+    "image": "https://cdn.myanimelist.net/images/anime/5/82388l.jpg",
+    "score": 8.32,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "type": "Music",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": null
+  },
+  {
+    "id": 5081,
+    "title": "Bakemonogatari",
+    "image": "https://cdn.myanimelist.net/images/anime/11/75274l.jpg",
+    "score": 8.32,
+    "year": 2009,
+    "episodes": 15,
+    "source": "Light novel",
+    "studio": "Shaft",
+    "genres": [
+      "Mystery",
+      "Romance",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 296
+  },
+  {
+    "id": 22535,
+    "title": "Parasyte: The Maxim",
+    "image": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
+    "score": 8.32,
+    "year": 2014,
+    "episodes": 24,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 301
+  },
+  {
+    "id": 13601,
+    "title": "Psycho-Pass",
+    "image": "https://cdn.myanimelist.net/images/anime/1314/142015l.jpg",
+    "score": 8.32,
+    "year": 2012,
+    "episodes": 22,
+    "source": "Original",
+    "studio": "Production I.G",
+    "genres": [
+      "Action",
+      "Mystery",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 307
+  },
+  {
+    "id": 39535,
+    "title": "Mushoku Tensei: Jobless Reincarnation",
+    "image": "https://cdn.myanimelist.net/images/anime/1530/117776l.jpg",
+    "score": 8.32,
+    "year": 2021,
+    "episodes": 11,
+    "source": "Light novel",
+    "studio": "Studio Bind",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Ecchi"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 303
+  },
+  {
+    "id": 137,
+    "title": "Hunter x Hunter: Original Video Animation",
+    "image": "https://cdn.myanimelist.net/images/anime/1/137l.jpg",
+    "score": 8.32,
+    "year": null,
+    "episodes": 8,
+    "source": "Manga",
+    "studio": "Nippon Animation",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 300
+  },
+  {
+    "id": 1210,
+    "title": "Welcome to the N.H.K.",
+    "image": "https://cdn.myanimelist.net/images/anime/3/52675l.jpg",
+    "score": 8.32,
+    "year": 2006,
+    "episodes": 24,
+    "source": "Novel",
+    "studio": "Gonzo",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 305
+  },
+  {
+    "id": 48653,
+    "title": "Racing into the Night",
+    "image": "https://cdn.myanimelist.net/images/anime/1548/124083l.jpg",
+    "score": 8.32,
+    "year": null,
+    "episodes": 1,
+    "source": "Other",
+    "studio": "Unknown",
+    "genres": [],
+    "type": "Music",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": null
+  },
+  {
+    "id": 42886,
+    "title": "Legend of the Galactic Heroes: Die Neue These - Collision",
+    "image": "https://cdn.myanimelist.net/images/anime/1859/118711l.jpg",
+    "score": 8.32,
+    "year": null,
+    "episodes": 12,
+    "source": "Novel",
+    "studio": "Production I.G",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 298
+  },
+  {
+    "id": 20651,
+    "title": "Natsume’s Book of Friends: On a Certain Snowy Day",
+    "image": "https://cdn.myanimelist.net/images/anime/11/79742l.jpg",
+    "score": 8.32,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Brain's Base",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 305
+  },
+  {
+    "id": 59953,
+    "title": "Tales of Herding Gods",
+    "image": "https://cdn.myanimelist.net/images/anime/1324/150012l.jpg",
+    "score": 8.31,
+    "year": null,
+    "episodes": null,
+    "source": "Web novel",
+    "studio": "Sparkly Key Animation Studio",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "ONA",
+    "status": "Currently Airing",
+    "season": "Unknown",
+    "rank": 316
+  },
+  {
+    "id": 59897,
+    "title": "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved",
+    "image": "https://cdn.myanimelist.net/images/anime/1134/148744l.jpg",
+    "score": 8.31,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Kyoto Animation",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 314
+  },
+  {
+    "id": 55357,
+    "title": "Bocchi the Rock! Movie",
+    "image": "https://cdn.myanimelist.net/images/anime/1256/142261l.jpg",
+    "score": 8.31,
+    "year": null,
+    "episodes": 2,
+    "source": "4-koma manga",
+    "studio": "CloverWorks",
+    "genres": [
+      "Award Winning",
+      "Comedy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 312
+  },
+  {
+    "id": 51440,
+    "title": "Sasaki and Miyano: Graduation",
+    "image": "https://cdn.myanimelist.net/images/anime/1574/128922l.jpg",
+    "score": 8.31,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Studio Deen",
+    "genres": [
+      "Boys Love"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 319
+  },
+  {
+    "id": 34534,
+    "title": "Natsume's Book of Friends Season 5 Specials",
+    "image": "https://cdn.myanimelist.net/images/anime/3/84887l.jpg",
+    "score": 8.31,
+    "year": null,
+    "episodes": 2,
+    "source": "Manga",
+    "studio": "Shuka",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 317
+  },
+  {
+    "id": 39112,
+    "title": "Crying for Rain",
+    "image": "https://cdn.myanimelist.net/images/anime/1776/121796l.jpg",
+    "score": 8.31,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Unknown",
+    "genres": [],
+    "type": "Music",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": null
+  },
+  {
+    "id": 5420,
+    "title": "The Beast Player Erin",
+    "image": "https://cdn.myanimelist.net/images/anime/1929/121700l.jpg",
+    "score": 8.31,
+    "year": 2009,
+    "episodes": 50,
+    "source": "Novel",
+    "studio": "Production I.G",
+    "genres": [
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 315
+  },
+  {
+    "id": 40211,
+    "title": "The Legend of Hei",
+    "image": "https://cdn.myanimelist.net/images/anime/1583/108598l.jpg",
+    "score": 8.31,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "HMCH",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 315
+  },
+  {
+    "id": 30230,
+    "title": "Ace of Diamond: Second Season",
+    "image": "https://cdn.myanimelist.net/images/anime/9/74398l.jpg",
+    "score": 8.31,
+    "year": 2015,
+    "episodes": 51,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 312
+  },
+  {
+    "id": 50159,
+    "title": "Zombieland Saga Movie: Yumeginga Paradise",
+    "image": "https://cdn.myanimelist.net/images/anime/1552/151187l.jpg",
+    "score": 8.31,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "MAPPA",
+    "genres": [
+      "Comedy",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 321
+  },
+  {
+    "id": 10162,
+    "title": "Bunny Drop",
+    "image": "https://cdn.myanimelist.net/images/anime/1460/98853l.jpg",
+    "score": 8.31,
+    "year": 2011,
+    "episodes": 11,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Slice of Life"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 320
+  },
+  {
+    "id": 62277,
+    "title": "Gintama Movie 3: Yoshiwara Daienjou",
+    "image": "https://cdn.myanimelist.net/images/anime/1599/154487l.jpg",
+    "score": 8.3,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Bandai Namco Pictures",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 324
+  },
+  {
+    "id": 56752,
+    "title": "Link Click: Bridon Arc",
+    "image": "https://cdn.myanimelist.net/images/anime/1496/147189l.jpg",
+    "score": 8.3,
+    "year": null,
+    "episodes": 6,
+    "source": "Original",
+    "studio": "CMC Media",
+    "genres": [
+      "Drama"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 329
+  },
+  {
+    "id": 4081,
+    "title": "Natsume's Book of Friends",
+    "image": "https://cdn.myanimelist.net/images/anime/1681/108439l.jpg",
+    "score": 8.3,
+    "year": 2008,
+    "episodes": 13,
+    "source": "Manga",
+    "studio": "Brain's Base",
+    "genres": [
+      "Slice of Life",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 327
+  },
+  {
+    "id": 22507,
+    "title": "Initial D Final Stage",
+    "image": "https://cdn.myanimelist.net/images/anime/1404/101364l.jpg",
+    "score": 8.3,
+    "year": 2014,
+    "episodes": 4,
+    "source": "Manga",
+    "studio": "SynergySP",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 325
+  },
+  {
+    "id": 31043,
+    "title": "Erased",
+    "image": "https://cdn.myanimelist.net/images/anime/10/77957l.jpg",
+    "score": 8.3,
+    "year": 2016,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Mystery",
+      "Suspense"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 322
+  },
+  {
+    "id": 1365,
+    "title": "Case Closed Movie 06: The Phantom of Baker Street",
+    "image": "https://cdn.myanimelist.net/images/anime/1400/94320l.jpg",
+    "score": 8.3,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "TMS Entertainment",
+    "genres": [
+      "Adventure",
+      "Mystery"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 325
+  },
+  {
+    "id": 11917,
+    "title": "Major: World Series",
+    "image": "https://cdn.myanimelist.net/images/anime/5/75220l.jpg",
+    "score": 8.29,
+    "year": null,
+    "episodes": 2,
+    "source": "Manga",
+    "studio": "SynergySP",
+    "genres": [
+      "Sports"
+    ],
+    "type": "OVA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 336
+  },
+  {
+    "id": 10863,
+    "title": "Steins;Gate: Egoistic Poriomania",
+    "image": "https://cdn.myanimelist.net/images/anime/1805/123188l.jpg",
+    "score": 8.29,
+    "year": null,
+    "episodes": 1,
+    "source": "Visual novel",
+    "studio": "White Fox",
+    "genres": [
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 342
+  },
+  {
+    "id": 6675,
+    "title": "Redline",
+    "image": "https://cdn.myanimelist.net/images/anime/12/28553l.jpg",
+    "score": 8.29,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Madhouse",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 340
+  },
+  {
+    "id": 3784,
+    "title": "Evangelion: 2.0 You Can (Not) Advance",
+    "image": "https://cdn.myanimelist.net/images/anime/5/74983l.jpg",
+    "score": 8.29,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Khara",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 332
+  },
+  {
+    "id": 24415,
+    "title": "Kuroko's Basketball 3",
+    "image": "https://cdn.myanimelist.net/images/anime/4/68299l.jpg",
+    "score": 8.29,
+    "year": 2015,
+    "episodes": 25,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Sports"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 337
+  },
+  {
+    "id": 6594,
+    "title": "Katanagatari",
+    "image": "https://cdn.myanimelist.net/images/anime/1112/119225l.jpg",
+    "score": 8.29,
+    "year": 2010,
+    "episodes": 12,
+    "source": "Light novel",
+    "studio": "White Fox",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 335
+  },
+  {
+    "id": 759,
+    "title": "Tokyo Godfathers",
+    "image": "https://cdn.myanimelist.net/images/anime/1480/132791l.jpg",
+    "score": 8.29,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "Madhouse",
+    "genres": [
+      "Award Winning",
+      "Comedy",
+      "Drama"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 345
+  },
+  {
+    "id": 12531,
+    "title": "Kids on the Slope",
+    "image": "https://cdn.myanimelist.net/images/anime/1604/98654l.jpg",
+    "score": 8.29,
+    "year": 2012,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Tezuka Productions",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 341
+  },
+  {
+    "id": 39533,
+    "title": "given",
+    "image": "https://cdn.myanimelist.net/images/anime/1666/102238l.jpg",
+    "score": 8.29,
+    "year": 2019,
+    "episodes": 11,
+    "source": "Manga",
+    "studio": "Lerche",
+    "genres": [
+      "Boys Love",
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "summer",
+    "rank": 334
+  },
+  {
+    "id": 2150,
+    "title": "Moomin",
+    "image": "https://cdn.myanimelist.net/images/anime/13/26765l.jpg",
+    "score": 8.29,
+    "year": 1990,
+    "episodes": 78,
+    "source": "Book",
+    "studio": "Telescreen",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Slice of Life"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 343
+  },
+  {
+    "id": 57,
+    "title": "Beck: Mongolian Chop Squad",
+    "image": "https://cdn.myanimelist.net/images/anime/11/11636l.jpg",
+    "score": 8.29,
+    "year": 2004,
+    "episodes": 26,
+    "source": "Manga",
+    "studio": "Madhouse",
+    "genres": [
+      "Drama"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "fall",
+    "rank": 331
+  },
+  {
+    "id": 1735,
+    "title": "Naruto Shippuden",
+    "image": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg",
+    "score": 8.29,
+    "year": 2007,
+    "episodes": 500,
+    "source": "Manga",
+    "studio": "Studio Pierrot",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 339
+  },
+  {
+    "id": 60371,
+    "title": "You and I Are Polar Opposites",
+    "image": "https://cdn.myanimelist.net/images/anime/1140/154457l.jpg",
+    "score": 8.28,
+    "year": 2026,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "Lapin Track",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 354
+  },
+  {
+    "id": 59150,
+    "title": "Scissor Seven: Fragments of Memory",
+    "image": "https://cdn.myanimelist.net/images/anime/1787/151956l.jpg",
+    "score": 8.28,
+    "year": null,
+    "episodes": 10,
+    "source": "Original",
+    "studio": "Sharefun Studio",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Mystery",
+      "Sci-Fi",
+      "Supernatural"
+    ],
+    "type": "ONA",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 356
+  },
+  {
+    "id": 55830,
+    "title": "Fate/strange Fake",
+    "image": "https://cdn.myanimelist.net/images/anime/1752/150192l.jpg",
+    "score": 8.28,
+    "year": 2026,
+    "episodes": 13,
+    "source": "Light novel",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Action",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 351
+  },
+  {
+    "id": 54870,
+    "title": "Rascal Does Not Dream of a Knapsack Kid",
+    "image": "https://cdn.myanimelist.net/images/anime/1937/138379l.jpg",
+    "score": 8.28,
+    "year": null,
+    "episodes": 1,
+    "source": "Light novel",
+    "studio": "CloverWorks",
+    "genres": [
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 355
+  },
+  {
+    "id": 486,
+    "title": "Kino's Journey",
+    "image": "https://cdn.myanimelist.net/images/anime/1763/95397l.jpg",
+    "score": 8.28,
+    "year": 2003,
+    "episodes": 13,
+    "source": "Light novel",
+    "studio": "A.C.G.T.",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 353
+  },
+  {
+    "id": 9989,
+    "title": "Anohana: The Flower We Saw That Day",
+    "image": "https://cdn.myanimelist.net/images/anime/5/79697l.jpg",
+    "score": 8.28,
+    "year": 2011,
+    "episodes": 11,
+    "source": "Original",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Drama",
+      "Supernatural"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "spring",
+    "rank": 349
+  },
+  {
+    "id": 35111,
+    "title": "Haikyu!! The Movie: Battle of Concepts",
+    "image": "https://cdn.myanimelist.net/images/anime/1854/147254l.jpg",
+    "score": 8.27,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Sports"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 359
+  },
+  {
+    "id": 32188,
+    "title": "Steins;Gate: Open the Missing Link - Divide By Zero",
+    "image": "https://cdn.myanimelist.net/images/anime/7/77324l.jpg",
+    "score": 8.27,
+    "year": null,
+    "episodes": 1,
+    "source": "Visual novel",
+    "studio": "White Fox",
+    "genres": [
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "TV Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 364
+  },
+  {
+    "id": 30346,
+    "title": "Doukyusei: Classmates",
+    "image": "https://cdn.myanimelist.net/images/anime/3/78606l.jpg",
+    "score": 8.27,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "A-1 Pictures",
+    "genres": [
+      "Boys Love"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 357
+  },
+  {
+    "id": 9735,
+    "title": "Gintama: Shinyaku Benizakura-hen",
+    "image": "https://cdn.myanimelist.net/images/anime/12/26966l.jpg",
+    "score": 8.27,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Sunrise",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Sci-Fi"
+    ],
+    "type": "Special",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 359
+  },
+  {
+    "id": 45,
+    "title": "Rurouni Kenshin",
+    "image": "https://cdn.myanimelist.net/images/anime/1346/119505l.jpg",
+    "score": 8.27,
+    "year": 1996,
+    "episodes": 94,
+    "source": "Manga",
+    "studio": "Gallop",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 362
+  },
+  {
+    "id": 43,
+    "title": "Ghost in the Shell",
+    "image": "https://cdn.myanimelist.net/images/anime/10/82594l.jpg",
+    "score": 8.27,
+    "year": null,
+    "episodes": 1,
+    "source": "Manga",
+    "studio": "Production I.G",
+    "genres": [
+      "Award Winning",
+      "Mystery",
+      "Sci-Fi",
+      "Suspense"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 361
+  },
+  {
+    "id": 38826,
+    "title": "Weathering with You",
+    "image": "https://cdn.myanimelist.net/images/anime/1880/101146l.jpg",
+    "score": 8.27,
+    "year": null,
+    "episodes": 1,
+    "source": "Original",
+    "studio": "CoMix Wave Films",
+    "genres": [
+      "Award Winning",
+      "Drama",
+      "Romance",
+      "Supernatural"
+    ],
+    "type": "Movie",
+    "status": "Finished Airing",
+    "season": "Unknown",
+    "rank": 365
+  },
+  {
+    "id": 57592,
+    "title": "Dr. Stone: Science Future",
+    "image": "https://cdn.myanimelist.net/images/anime/1403/146479l.jpg",
+    "score": 8.26,
+    "year": 2025,
+    "episodes": 12,
+    "source": "Manga",
+    "studio": "TMS Entertainment",
+    "genres": [
+      "Adventure",
+      "Comedy"
+    ],
+    "type": "TV",
+    "status": "Finished Airing",
+    "season": "winter",
+    "rank": 369
+  }
+]

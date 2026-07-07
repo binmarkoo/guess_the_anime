@@ -1,4 +1,4 @@
-export const CELL_WIDTH = "w-[72px]";
+export const CELL_WIDTH = "w-[83px]";
 export const categories = [
     { key: "studio", label: "Studio" },
     { key: "type", label: "Type" },

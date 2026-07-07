@@ -10,7 +10,11 @@ function GuessTheAnime() {
 
     return (
         <div>
-            {!won && <GuessInput onGuess={makeGuess} />}
+            {!won && (
+                <div className="flex justify-center">
+                    <GuessInput onGuess={makeGuess} />
+                </div>
+            )}
 
             {won && (
                 <WinScreen

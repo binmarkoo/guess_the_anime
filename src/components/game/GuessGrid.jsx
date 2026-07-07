@@ -2,7 +2,15 @@ import { categories, CELL_WIDTH } from "../../game/categories";
 import GuessRow from "./GuessRow";
 
 function GuessGrid({ guesses }) {
-    if (guesses.length === 0) return null;
+    // empty state: nothing guessed yet
+    if (guesses.length === 0) {
+        return (
+            <div className="text-center mt-16 text-gray-400 dark:text-gray-600">
+                <div className="text-5xl mb-3">🔍</div>
+                <p>Tippe oben einen Anime ein, um zu starten!</p>
+            </div>
+        );
+    }
 
     return (
         <div className="mt-6 overflow-x-auto">

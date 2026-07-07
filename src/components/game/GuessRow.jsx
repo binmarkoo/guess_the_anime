@@ -1,3 +1,4 @@
+import { motion } from "motion/react";
 import { categories, CELL_WIDTH } from "../../game/categories";
 import CategoryCell from "./CategoryCell";
 
@@ -5,7 +6,12 @@ function GuessRow({ guess }) {
     const { anime, result } = guess;
 
     return (
-        <div className="flex gap-1.5 mb-1.5 items-stretch">
+        <motion.div
+            className="flex gap-1.5 mb-1.5 items-stretch"
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.3 }}
+        >
             {/* anime image on the left */}
             <div className={`${CELL_WIDTH} shrink-0 flex items-center justify-center`}>
                 <img
@@ -16,15 +22,16 @@ function GuessRow({ guess }) {
             </div>
 
             {/* one cell per category */}
-            {categories.map((cat) => (
+            {categories.map((cat, index) => (
                 <CategoryCell
                     key={cat.key}
                     label={cat.label}
                     value={formatValue(anime[cat.key])}
                     status={result[cat.key]}
+                    index={index}
                 />
             ))}
-        </div>
+        </motion.div>
     );
 }
 

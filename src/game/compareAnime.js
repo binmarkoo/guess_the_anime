@@ -8,10 +8,20 @@ function compareText(guessValue, targetValue) {
 
 // Helper 2: for numbers (score, year, episodes, rank)
 function compareNumber(guessValue, targetValue) {
-    // if either value is missing, we can't compare -> treat as wrong
-    if (guessValue == null || targetValue == null) {
+    const guessMissing = guessValue == null;
+    const targetMissing = targetValue == null;
+
+    // both missing -> they match -> green
+    if (guessMissing && targetMissing) {
+        return "correct";
+    }
+
+    // only one missing -> can't match -> red
+    if (guessMissing || targetMissing) {
         return "wrong";
     }
+
+    // both present -> normal comparison
     if (guessValue === targetValue) {
         return "correct"; // green
     }

@@ -1,2 +1,60 @@
 @import "tailwindcss";
 @custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+    --sakura-pink: #f9a8d4;
+    --sakura-deep: #ec4899;
+    --lavender: #c4b5fd;
+    --peach: #fbcfe8;
+}
+
+/* soft glow utility for the title */
+.text-glow {
+    text-shadow: 0 0 20px rgba(249, 168, 212, 0.6),
+        0 0 40px rgba(196, 181, 253, 0.4);
+}
+
+/* glowing box for cards / inputs */
+.glow-box {
+    box-shadow: 0 0 30px rgba(249, 168, 212, 0.25),
+        0 0 60px rgba(196, 181, 253, 0.15);
+}
+
+/* the falling petal */
+@keyframes fall {
+    0% {
+        transform: translateY(-10vh) translateX(0) rotate(0deg);
+        opacity: 0;
+    }
+
+    10% {
+        opacity: 0.8;
+    }
+
+    90% {
+        opacity: 0.8;
+    }
+
+    100% {
+        transform: translateY(110vh) translateX(40px) rotate(360deg);
+        opacity: 0;
+    }
+}
+
+.petal {
+    position: fixed;
+    top: 0;
+    border-radius: 100% 0 100% 0;
+    background: linear-gradient(135deg, #fbcfe8, #f9a8d4);
+    pointer-events: none;
+    z-index: 0;
+    animation-name: fall;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .petal {
+        display: none;
+    }
+}
